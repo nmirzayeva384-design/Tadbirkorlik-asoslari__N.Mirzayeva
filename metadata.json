@@ -1,0 +1,6 @@
+{
+  "name": "Tadbirkorlik Asoslari — Interaktiv Ta'lim Platformasi",
+  "description": "Bakalavriat talabalari va o'qituvchilar uchun O'zbekiston sharoitiga moslashtirilgan 3 tilli (UZ/RU/EN) interaktiv 'Tadbirkorlik asoslari' o'quv veb-ilovasi: 15 mavzu, statistika, qonunchilik, kalkulyatorlar, glossariy va yakuniy imtihon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
